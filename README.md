@@ -23,3 +23,7 @@
 > Clase 202 - Herramientas y Ambiente de Trabajo
 > 
 > [Libreta C202](https://colab.research.google.com/drive/1doow06IC6mK1Po0EQtQyd1_OetWtV3RD?usp=sharing)
+
+> Clase 203 - Clase 203 - Fases de un Proyecto de Aprendizaje Máquina
+>
+> [Libreta C203](https://colab.research.google.com/drive/1baaXK6Y-iqLtgpOw1UJbszhLbkus8IVI?usp=sharing)
