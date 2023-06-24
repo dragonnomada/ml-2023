@@ -27,3 +27,9 @@
 > Clase 203 - Fases de un Proyecto de Aprendizaje Máquina
 >
 > [Libreta C203](https://colab.research.google.com/drive/1baaXK6Y-iqLtgpOw1UJbszhLbkus8IVI?usp=sharing)
+
+---
+
+> Clase 204 - Clasificación
+>
+> [Libreta C204](https://colab.research.google.com/drive/1yMougE4DZt64U5iYre5o8m35kNWk4ugA?usp=sharing)
