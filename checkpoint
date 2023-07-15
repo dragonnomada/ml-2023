@@ -1,0 +1,2 @@
+model_checkpoint_path: "digit_net_weights"
+all_model_checkpoint_paths: "digit_net_weights"
