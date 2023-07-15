@@ -46,6 +46,17 @@
 --
 
 > Clase 206 - Redes Neuronales
+>
+> [Libreta A206](https://colab.research.google.com/drive/1GaXwC9zgZgRPRU4lTLjLfukMU_IDtggS?usp=sharing)
+>
+> [Libreta B206](https://colab.research.google.com/drive/1DrxHEJuoHyjseVTp9ep7OLCagll591CK?usp=sharing)
+>
+> [Libreta C206](https://colab.research.google.com/drive/15xzkov5h20O9Vlya9JFd_-MC5eSIJoOZ?usp=sharing)
+>
+> [Libreta P206](https://colab.research.google.com/drive/1hTUFZzm0QG1b8PNfPrYnaIKMDJT6OBiq?usp=sharing)
+>
+> [Libreta Q206](https://colab.research.google.com/drive/1HylPtCiRPr9-9k5zd_8dRvdX1rnu7Zok?usp=sharing)
+> 
 
 ---
 
